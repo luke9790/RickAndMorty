@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <header className="bg-transparent">
+    <header className="bg-transparent w-4/5 mx-auto">
       <div className="max-w-screen-2xl mx-auto px-1 lg:px-4">
         <div className="flex justify-between items-center py-4">
           <div className="flex justify-start">
