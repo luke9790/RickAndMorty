@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Bangers&family=Inter:wght@400;500;600;700&display=swap");
+
+body {
+  background-color: #1f233a;
+  font-family: "Inter", sans-serif;
+  color: #ffffff;
+}
+
+p {
+  font-family: "Bangers", cursive;
+}
