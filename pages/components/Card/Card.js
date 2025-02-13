@@ -1,6 +1,5 @@
 function Card({ character }) {
   if (!character) {
-    // oppure puoi renderizzare un placeholder o un messaggio di errore
     return <div>Character data not available</div>;
   }
   
